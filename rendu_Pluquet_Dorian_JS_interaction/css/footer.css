@@ -1,0 +1,14 @@
+#position{
+    width: 100%;
+    background-color:rgb(92, 69, 50);
+    padding: 20px;
+    margin: 0px;
+    color: white;
+}footer h4{
+    display: inline-block;
+    margin: 0px;
+}
+
+footer h4:hover{
+    text-decoration: underline;
+}

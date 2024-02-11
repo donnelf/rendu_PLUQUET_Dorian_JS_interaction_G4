@@ -1,0 +1,41 @@
+
+#rogue{
+    width: 300px;
+    height: 500px;
+    border-radius: 20%;
+    transition: 0.5s;
+}
+#HP{
+    width: 300px;
+    height: 500px;
+    border-radius: 20%;
+    transition: 0.5s;
+}
+#hermione{
+    width: 300px;
+    height: 500px;
+    border-radius: 20%;
+    transition: 0.5s;
+}
+#minerva{
+    width: 300px;
+    height: 500px;
+    border-radius: 20%;
+    transition: 0.5s;
+}
+
+.tab{
+    display: flex;
+}
+
+.content{
+  display: none;
+}
+
+.active{
+    display: block;
+}
+
+.tab-active{
+    background-color: red;
+}

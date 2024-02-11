@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+.swiper-slide{
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  font-size: 18px;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+.title{
+  font-weight: bolder;
+  font-size: 72px;
+  color: maroon;
+}
+
+.subtitle{
+  letter-spacing: 3px;
+  font-size: 24px;
+  color: maroon;
+  font-weight: bold;
+}
+
+.slide-debloquez{
+  background-image: url(https://www.gazette-du-sorcier.com/wp-content/uploads/2020/11/cartes-panini1.jpg);
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.slide-collectionnez{
+  background-image: url(https://static.fnac-static.com/multimedia/Images/FR/MDM/42/36/10/17839682/1520-3/tsp20221231142654/Jeu-de-cartes-Panini-Harry-Potter-Evolution-Trading-cards-Blister-7-pochettes-Modele-aleatoire.jpg);
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.slide-combattez{
+  background-image: url(https://www.jeux-cooperatifs.com/wp-content/uploads/2019/11/harry-potter-hogwarts-battle2.jpg);
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
